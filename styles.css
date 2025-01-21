@@ -5,6 +5,9 @@ html{
 body{
     margin: 0;
     background-color: #FAF9F6;
+    font-family: "Cormorant Garamond", serif, sans-serif;
+    font-weight: 300;
+    font-style: normal;
 }
 
 header{
